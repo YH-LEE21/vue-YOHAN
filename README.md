@@ -1,8 +1,6 @@
 # vue-memo
 
-<img src = "" alt="실행화면">
-<img src = "" alt="작성화면">
-<img src = "" alt="저장소">
+
 <!--
 - 'vue'에 기반한 응답식 적응형 메모장 앱입니다
   - 'markdown'과 낙서 두 가지기능을 지원합니다.
@@ -21,6 +19,20 @@
   - 作った時間やタイトルによって整列します。
   - 「localStorage」を基盤とします。データを保存·持続させます。
 ---
+
+### 実行画面
+
+<img src = "https://github.com/YH-LEE21/vue-YOHAN/blob/main/IMAGE/Execution_screen.png" alt="실행화면">
+
+---
+
+### 作成画面-文の絵を作成
+<img src = "https://github.com/YH-LEE21/vue-YOHAN/blob/main/IMAGE/Write_screen.png" alt="작성화면">
+
+---
+
+### リポジトリの位置 - localStorage
+<img src = "https://github.com/YH-LEE21/vue-YOHAN/blob/main/IMAGE/Storage_screen.png" alt="저장소">
 
 ## Project setup
 ```
