@@ -26,8 +26,18 @@
 
 ---
 
-### 作成画面-文の絵を作成
+### 作成画面 - 文の絵を作成
 <img src = "https://github.com/YH-LEE21/vue-YOHAN/blob/main/IMAGE/Write_screen.png" alt="작성화면">
+
+---
+
+### 並べ替え画面 - カテゴリ`日常`
+<img src = "https://github.com/YH-LEE21/vue-YOHAN/blob/main/IMAGE/Sort_screen.png" alt="정렬화면">
+
+---
+
+### 検索画面 - `vue`検索
+<img src = "https://github.com/YH-LEE21/vue-YOHAN/blob/main/IMAGE/Search_screen.png" alt="검색화면">
 
 ---
 
